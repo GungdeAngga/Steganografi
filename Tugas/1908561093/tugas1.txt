@@ -1,0 +1,2 @@
+gambar fruitsAngga.jpeg sudah di sisipkan sebuah pesan
+modPix berfungsi untuk mengubah data string dari kata kata yang di inputkan kedalam data gambar yang dituji
