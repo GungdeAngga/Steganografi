@@ -21,7 +21,7 @@ def modPix(pix, data):
                                 imdata.__next__()[:3] +
                                 imdata.__next__()[:3]]
  
-        for j in range(0, 7):
+        for j in range(0, 8):
             if (datalist[i][j] == '0' and pix[j]% 2 != 0):
                 pix[j] -= 1
  
